@@ -1,0 +1,121 @@
+.programmation
+{
+	color: green;
+}
+h1 
+{
+	text-align: center;
+	font-size: 3.1em;
+	font-family: Arial, Helvetica, sans-serif;
+	background-color: green;
+	color: maroon;
+	border: 3px red dashed;
+}
+p
+{
+	text-align: left;
+	font-size: x-large;
+	font-family: Georgia, "Times News Roman", Times, serif;
+	font-style: normal;
+	color: white;
+}
+a:hover
+{
+	text-decoration: underline;
+	color: crimson;
+	 
+}
+a:ative
+{
+	background-color: rgb(66, 153, 245);
+}
+a:focus
+{
+	background-color: rgb(62, 166, 46);
+}
+a:visted
+{
+     color: 
+}
+body{
+	background-color: rgb(50, 147, 168);
+	background-repeat: no-repeat;
+	border-radius: 30px/15px;
+	border: 10px yellow inset;
+	border-top: 20px yellow outset;
+	border-right: 20px white groove;
+	border-bottom: 20px red outset ;
+	border-left:20px blue groove ;
+	box-shadow: 10px 10px 0px hotpink;
+
+}
+ol 
+{
+	font-size: x-large;
+	color: skyblue;
+}
+
+em
+{
+	font-weight: bold;
+	font-style: italic;
+}
+strong
+{
+	font-style: oblique;
+}
+span
+{
+	text-decoration: underline;
+}
+h2
+{
+	color: lightpink;
+}
+.div-prem
+{
+	position: relative;
+	top: 10px;
+	left: 30px;
+	border: 4px solid black;
+	
+	font-size: 1.3em;
+	background-color: deeppink;
+	background-image: url(image/abdou.jpg);
+	background-position: right;
+	background-repeat: no-repeat;
+}
+.footer-prem
+{
+	border: 100px double white;
+	position: relative;
+	bottom: 5px;
+	background-color: maroon;
+
+}
+.div-clas
+{
+	background-color: crimson;
+}
+header
+{
+	background-image: url(image/PRO.jpg);
+}
+img
+{
+	float: right;
+	margin-right: 30px;
+}
+#con
+{
+	display: flex;
+	border: 3px yellow dotted;
+	flex-direction: column;
+}
+.element 1
+{
+	border: 20px yellow solid;
+}
+
+
+
